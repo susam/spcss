@@ -1,0 +1,24 @@
+{
+  "name": "spcss",
+  "version": "0.1.0",
+  "description": "Simple and Plain Stylesheet",
+  "files": [
+    "sp.css"
+  ],
+  "keywords": [
+    "css",
+    "stylesheet",
+    "browser"
+  ],
+  "homepage": "http://github.com/susam/spcss",
+  "bugs": "http://github.com/susam/spcss/issues",
+  "license": "MIT",
+  "author": "Susam Pal <susam@susam.in> (https://susam.in/)",
+  "repository": "github:susam/spcss",
+  "devDependencies": {
+    "csso-cli": "latest"
+  },
+  "scripts": {
+    "min": "csso sp.css -o sp.min.css"
+  }
+}
