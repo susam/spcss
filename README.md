@@ -43,7 +43,7 @@ To use SPCSS, merely add this line of code to the `<head>` element of
 your HTML file:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.2.0">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.3.0">
 ```
 
 Alternatively, download the CSS file from [here][DL], edit and customize
@@ -51,18 +51,18 @@ it as per your requirements, and use it in your project. You are also
 welcome to [fork this repository][fork] and customize it to maintain
 your own copy of [sp.css](sp.css) with styles you frequently need.
 
-[DL]: https://cdn.jsdelivr.net/npm/spcss@0.2.0/sp.css
+[DL]: https://cdn.jsdelivr.net/npm/spcss@0.3.0/sp.css
 [fork]: https://github.com/susam/spcss/fork
 
 
 CDN URLs
 --------
 
-Use the following URL in the `<link>` tag to load version 0.2.0 (the
+Use the following URL in the `<link>` tag to load version 0.3.0 (the
 current version at this time) of SPCSS:
 
 ```
-https://cdn.jsdelivr.net/npm/spcss@0.2.0
+https://cdn.jsdelivr.net/npm/spcss@0.3.0
 ```
 
 Use the following URL in the `<script>` tag to always load the latest
