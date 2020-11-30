@@ -1,10 +1,13 @@
 {
   "name": "spcss",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple and Plain Stylesheet",
   "files": [
-    "sp.css"
+    "sp.css",
+    "sp.min.css"
   ],
+  "jsdelivr": "sp.css",
+  "unpkg": "sp.css",
   "keywords": [
     "css",
     "stylesheet",
