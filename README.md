@@ -25,6 +25,15 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 [Twitter URL]: https://twitter.com/susam
 
 
+Contents
+--------
+
+* [Use SPCSS](#use-spcss)
+* [CDN URLs](#cdn-urls)
+* [License](#license)
+* [Support](#support)
+
+
 Use SPCSS
 ---------
 
@@ -32,7 +41,32 @@ To use SPCSS, merely add this line of code to the `<head>` element of
 your HTML file:
 
 ```html
-<link rel="stylesheet" href="https://susam.github.io/spcss/sp.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.1.0/sp.min.css">
+```
+
+
+CDN URLs
+--------
+
+Use the following URL in the `<link>` tag to load version 0.2.0 (the
+current version at this time) of SPCSS:
+
+```
+https://cdn.jsdelivr.net/npm/spcss@0.1.0/sp.min.css
+```
+
+Use the following URL in the `<script>` tag to always load the latest
+version of TeXMe:
+
+```
+https://cdn.jsdelivr.net/npm/spcss/sp.min.css
+```
+
+If you need something really easy to remember, use this URL to load the
+latest version of TeXMe:
+
+```
+https://unpkg.com/spcss/sp.css
 ```
 
 
