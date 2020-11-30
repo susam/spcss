@@ -124,8 +124,8 @@ Here is a summary of the style changes provided by SPCSS:
   for code blocks. Instead, make the code block scrollable when the code
   overflows the gray box.
 
-See [this example page][Demo URL] to see a quick demonstration of some
-of these features.
+See [this example page][Demo URL] for a quick demonstration of some of
+these features.
 
 
 License
