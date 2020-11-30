@@ -46,10 +46,13 @@ your HTML file:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.2.0">
 ```
 
-Alternatively, download the CSS file from [here][DL], edit and customie
-it as per your requirements, and use it in your project.
+Alternatively, download the CSS file from [here][DL], edit and customize
+it as per your requirements, and use it in your project. You are also
+welcome to [fork this repository][fork] and customize it to maintain
+your own copy of [sp.css](sp.css) with styles you frequently need.
 
 [DL]: https://cdn.jsdelivr.net/npm/spcss@0.2.0/sp.css
+[fork]: https://github.com/susam/spcss/fork
 
 
 CDN URLs
@@ -63,14 +66,14 @@ https://cdn.jsdelivr.net/npm/spcss@0.2.0
 ```
 
 Use the following URL in the `<script>` tag to always load the latest
-version of TeXMe:
+version of SPCSS:
 
 ```
 https://cdn.jsdelivr.net/npm/spcss
 ```
 
 If you need something really easy to remember, use this URL to load the
-latest version of TeXMe:
+latest version of SPCSS:
 
 ```
 https://unpkg.com/spcss
@@ -86,6 +89,10 @@ desired, so I often add a minimal stylesheet to improve the apperance of
 the document, hyperlinks, code blocks, blockquotes, etc. This project
 shares the minimal stylesheet that I often rely on for styling simple
 websites and webpages.
+
+You are welcome to [fork this repository][fork] and customize it to
+maintain your own copy of [sp.css](sp.css) with styles that you
+frequently need.
 
 
 Features
