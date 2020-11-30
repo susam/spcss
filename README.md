@@ -52,21 +52,21 @@ Use the following URL in the `<link>` tag to load version 0.2.0 (the
 current version at this time) of SPCSS:
 
 ```
-https://cdn.jsdelivr.net/npm/spcss@0.2.0/sp.min.css
+https://cdn.jsdelivr.net/npm/spcss@0.2.0
 ```
 
 Use the following URL in the `<script>` tag to always load the latest
 version of TeXMe:
 
 ```
-https://cdn.jsdelivr.net/npm/spcss/sp.min.css
+https://cdn.jsdelivr.net/npm/spcss
 ```
 
 If you need something really easy to remember, use this URL to load the
 latest version of TeXMe:
 
 ```
-https://unpkg.com/spcss/sp.css
+https://unpkg.com/spcss
 ```
 
 
