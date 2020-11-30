@@ -41,7 +41,7 @@ To use SPCSS, merely add this line of code to the `<head>` element of
 your HTML file:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.1.0/sp.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.2.0/sp.min.css">
 ```
 
 
@@ -52,7 +52,7 @@ Use the following URL in the `<link>` tag to load version 0.2.0 (the
 current version at this time) of SPCSS:
 
 ```
-https://cdn.jsdelivr.net/npm/spcss@0.1.0/sp.min.css
+https://cdn.jsdelivr.net/npm/spcss@0.2.0/sp.min.css
 ```
 
 Use the following URL in the `<script>` tag to always load the latest

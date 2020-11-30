@@ -8,9 +8,7 @@ Perform the following tasks for every release:
 
   - Update version in README.md.
   - Update version in package.json.
-  - Update version in Makefile.
   - Update copyright notice in LICENSE.md.
-  - Update copyright notice in sp.css
   - Update CHANGES.md.
   - Update minified script.
 
