@@ -22,7 +22,7 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 [L]: LICENSE.md
 
 [Twitter SVG]: https://img.shields.io/badge/twitter-%40susam-%231da1f2
-[Twitter URL]: https://twitter.com/susam
+[Twitter URL]: https://twitter.com/intent/follow?screen_name=susam 
 
 
 Contents
