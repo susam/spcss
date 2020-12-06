@@ -9,7 +9,8 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 [![MIT License][License SVG]][L]
 [![Twitter][Twitter SVG]][Twitter URL]
 
-Note: A demo page is available [here][Demo URL].
+Check this [demo page][Demo URL] to see how SPCSS styles a simple HTML
+page.
 
 SPCSS supports systems and web browsers with dark color theme too, so
 how the page looks depends on the color theme selected on your system or
