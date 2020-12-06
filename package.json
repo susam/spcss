@@ -1,6 +1,6 @@
 {
   "name": "spcss",
-  "version": "0.4.0",
+  "version": "0.5.0-dev",
   "description": "Simple and Plain Stylesheet",
   "files": [
     "sp.css",
