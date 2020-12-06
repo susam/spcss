@@ -9,13 +9,6 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 [![MIT License][License SVG]][L]
 [![Twitter][Twitter SVG]][Twitter URL]
 
-Check this [demo page][Demo URL] to see how SPCSS styles a simple HTML
-page.
-
-SPCSS supports systems and web browsers with dark color theme too, so
-how the page looks depends on the color theme selected on your system or
-browser.
-
 [Demo SVG]: https://img.shields.io/badge/view-demo-brightgreen.svg
 [Demo URL]: https://susam.github.io/spcss/
 
@@ -35,12 +28,33 @@ browser.
 Contents
 --------
 
+* [Demo](#demo)
 * [Use SPCSS](#use-spcss)
 * [CDN URLs](#cdn-urls)
 * [Why SPCSS?](#why-spcss)
 * [Features](#features)
 * [License](#license)
 * [Support](#support)
+
+
+Demo
+----
+
+Check this [demo page][Demo URL] to see how SPCSS styles a simple HTML
+page.
+
+SPCSS supports systems and web browsers with dark color theme too, so
+how the page looks depends on the color theme selected on your system or
+browser.
+
+If you are unable to change your desktop or browser theme right now,
+here are some screenshots to see what the output looks like with both
+themes:
+
+<a href="https://i.imgur.com/aMC6iBr.png"><img alt="Demo of SPCSS light theme"
+    src="https://i.imgur.com/aMC6iBr.png" width="48%"></a>
+<a href="https://i.imgur.com/zYqQ1Hv.png"><img alt="Demo of SPCSS light theme"
+    src="https://i.imgur.com/zYqQ1Hv.png" width="48%"></a>
 
 
 Use SPCSS
