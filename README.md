@@ -11,6 +11,10 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 
 Note: A demo page is available [here][Demo URL].
 
+SPCSS supports systems and web browsers with dark color theme too, so
+how the page looks depends on the color theme selected on your system or
+browser.
+
 [Demo SVG]: https://img.shields.io/badge/view-demo-brightgreen.svg
 [Demo URL]: https://susam.github.io/spcss/
 
@@ -102,6 +106,7 @@ Features
 
 Here is a summary of the style changes provided by SPCSS:
 
+- Support for dark color theme (`prefers-color-scheme: dark`).
 - Maximum width for the `<body>` element to prevent the lines from being
   too long. Shorter lines make it easier for our eyes to gauge the
   beginning and end of the lines.
