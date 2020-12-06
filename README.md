@@ -9,6 +9,8 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 [![MIT License][License SVG]][L]
 [![Twitter][Twitter SVG]][Twitter URL]
 
+Note: A demo page is available [here][Demo URL].
+
 [Demo SVG]: https://img.shields.io/badge/view-demo-brightgreen.svg
 [Demo URL]: https://susam.github.io/spcss/
 
