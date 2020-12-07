@@ -86,7 +86,7 @@ current version at this time) of SPCSS:
 https://cdn.jsdelivr.net/npm/spcss@0.4.0
 ```
 
-Use the following URL in the `<script>` tag to always load the latest
+Use the following URL in the `<link>` tag to always load the latest
 version of SPCSS:
 
 ```
