@@ -1,3 +1,11 @@
+0.5.0 (2020-12-07)
+------------------
+
+### Added
+
+- Add hyperlink decoration when it receives focus.
+
+
 0.4.0 (2020-12-06)
 ------------------
 
