@@ -1,4 +1,5 @@
 body {
+  color: #333;
   font-family: helvetica, arial, sans-serif;
   line-height: 1.5;
   margin: 0 auto;
@@ -14,18 +15,20 @@ a:link, a:visited {
   text-decoration: none;
 }
 a:hover, a:active, a:focus {
-  color: #03f;
+  color: #06f;
   text-decoration: underline;
 }
-body,
-h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link,
-h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
-  color: #333;
+h1 a:empty:before, h2 a:empty:before, h3 a:empty:before,
+h4 a:empty:before, h5 a:empty:before, h6 a:empty:before {
+  content: "#";
 }
-h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
-h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active,
-h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus {
-  color: #444;
+h1 a:empty, h2 a:empty, h3 a:empty, h4 a:empty, h5 a:empty, h6 a:empty {
+  visibility: hidden;
+  padding-left: 0.25em;
+}
+h1:hover a:empty, h2:hover a:empty, h3:hover a:empty,
+h4:hover a:empty, h5:hover a:empty, h6:hover a:empty {
+  visibility: visible;
 }
 img {
   max-width: 100%;
@@ -48,16 +51,16 @@ pre code, pre samp, pre kbd {
 pre kbd {
   color: #060;
 }
-pre {
+pre, blockquote {
   background: #eee;
   padding: 0.5em;
+}
+pre {
   overflow: auto;
 }
 blockquote {
-  background: #eee;
   border-left: medium solid #ccc;
   margin: 1em 0;
-  padding: 0.5em;
 }
 blockquote :first-child {
   margin-top: 0;
@@ -67,6 +70,7 @@ blockquote :last-child {
 }
 @media (prefers-color-scheme: dark) {
   body {
+    color: #bbb;
     background: #222;
   }
   a:link, a:visited {
@@ -74,16 +78,6 @@ blockquote :last-child {
   }
   a:hover, a:active {
     color: #acf;
-  }
-  body,
-  h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link,
-  h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
-    color: #bbb;
-  }
-  h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
-  h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active,
-  h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus {
-    color: #ccc;
   }
   pre, code, samp, kbd {
     color: #6cf;
