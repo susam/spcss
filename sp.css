@@ -43,10 +43,6 @@ figcaption {
 pre, code, samp, kbd {
   color: #009;
   font-family: monospace, monospace;
-  font-size: 0.9em;
-}
-pre code, pre samp, pre kbd {
-  font-size: 1em;
 }
 pre kbd {
   color: #060;
