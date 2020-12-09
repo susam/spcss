@@ -51,10 +51,10 @@ If you are unable to change your desktop or browser theme right now,
 here are some screenshots to see what the output looks like with both
 themes:
 
-<a href="https://i.imgur.com/aMC6iBr.png"><img alt="Demo of SPCSS light theme"
-    src="https://i.imgur.com/aMC6iBr.png" width="48%"></a>
-<a href="https://i.imgur.com/zYqQ1Hv.png"><img alt="Demo of SPCSS light theme"
-    src="https://i.imgur.com/zYqQ1Hv.png" width="48%"></a>
+<a href="https://i.imgur.com/WBUVYeP.png"><img alt="Demo of SPCSS light theme"
+    src="https://i.imgur.com/WBUVYeP.png" width="48%"></a>
+<a href="https://i.imgur.com/kINYseC.png"><img alt="Demo of SPCSS light theme"
+    src="https://i.imgur.com/kINYseC.png" width="48%"></a>
 
 
 Use SPCSS
@@ -126,8 +126,7 @@ Here is a summary of the style changes provided by SPCSS:
   too long. Shorter lines make it easier for our eyes to gauge the
   beginning and end of the lines.
 - Dark gray (`#333`) text color instead of black (`#000`) in light mode.
-- Increased line-height to add more room around the lines and make them
-  easier to read.
+- Increased line-height to add more room around the lines.
 - More margin above headings to separate them more conspicuously from
   preceding content.
 - Less margin below headings as well as less `line-height` for margins
