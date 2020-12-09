@@ -125,17 +125,17 @@ Here is a summary of the style changes provided by SPCSS:
 - Maximum width for the `<body>` element to prevent the lines from being
   too long. Shorter lines make it easier for our eyes to gauge the
   beginning and end of the lines.
-- Dark gray (`#333`) text color instead of black (`#000`).
+- Dark gray (`#333`) text color instead of black (`#000`) in light mode.
 - Increased line-height to add more room around the lines and make them
   easier to read.
 - More margin above headings to separate them more conspicuously from
   preceding content.
 - Less margin below headings as well as less `line-height` for margins
   to associate them more tightly with succeeding content.
-- Consistent blue color for hyperlinks throughout the content with the
-  exception of headings (see next point).
-- Retain dark gray text color for headings even when the headings are
-  hyperlinks.
+- Support for heading anchor links to facilitate sharing direct links to
+  sections of a page.
+- Support for special styling of keyboard input (`<kbd>`) within code
+  blocks (`<pre>`).
 - Ensure width of images do not exceed the maximum width for the
   `<body>` element.
 - Simple styling for `<figure>` and `<figcaption>` elements such as
