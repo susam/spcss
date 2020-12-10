@@ -15,29 +15,6 @@
   page demonstrates how some common HTML elements are styled with this
   stylesheet.
 </p>
-<h2 id="heading-anchor">Heading Anchor<a href="#heading-anchor"></a></h2>
-<p>
-  When you hover your cursor (mouse pointer) on the section heading
-  above, a hash sign appears to its right. This is a heading anchor
-  link. Heading anchor links are useful for sharing direct links to
-  sections of a web page.
-</p>
-<p>
-  Heading anchor links are enabled with a special feature of SPCSS: If a
-  heading element contains an empty anchor element, SPCSS turns that
-  into an anchor link that becomes visible while hovering the cursor on
-  the heading. For example, the above heading is created with the
-  following HTML code:
-</p>
-<pre>
-<code>&lt;h2 id="heading-anchor"&gt;Heading Anchor&lt;a href="#heading-anchor"&gt;&lt;/a&gt;&lt;/h2&gt;</code>
-</pre>
-<p>
-  If a heading element does not have an empty anchor element within it,
-  then no heading anchor link is created. For example, the top-level
-  heading of this page does not have an empty anchor element, so it is
-  rendered as a plain heading without an anchor link.
-</p>
 <h2 id="code-block">Code Block<a href="#code-block"></a></h2>
 <p>
   Here is a code block that displays the famous "hello, world" program
@@ -54,8 +31,7 @@ int main()
 </pre>
 <p>
   On a Unix or Unix-like system, this program can be compiled to a
-  binary executable named <code>a.out</code> with the <code>cc</code>
-  command as shown below.
+  binary executable with the following command:
 </p>
 <pre>
 <samp>$ <kbd>cc hello.c &amp;&amp; ./a.out</kbd>
@@ -140,6 +116,29 @@ hello, world&lt;/samp&gt;
   above exceeds the width of the HTML body, however SPCSS ensures that
   the rendered width of any image on the page does not exceed the width
   of the HTML body. This prevents the page layout from appearing broken.
+</p>
+<h2 id="heading-anchor">Heading Anchor<a href="#heading-anchor"></a></h2>
+<p>
+  When you hover your cursor (mouse pointer) on the section heading
+  above, a hash sign appears to its right. This is a heading anchor
+  link. Heading anchor links are useful for sharing direct links to
+  sections of a web page.
+</p>
+<p>
+  Heading anchor links are enabled with a special feature of SPCSS: If a
+  heading element contains an empty anchor element, SPCSS turns that
+  into an anchor link that becomes visible while hovering the cursor on
+  the heading. For example, the above heading is created with the
+  following HTML code:
+</p>
+<pre>
+<code>&lt;h2 id="heading-anchor"&gt;Heading Anchor&lt;a href="#heading-anchor"&gt;&lt;/a&gt;&lt;/h2&gt;</code>
+</pre>
+<p>
+  If a heading element does not have an empty anchor element within it,
+  then no heading anchor link is created. For example, the top-level
+  heading of this page does not have an empty anchor element, so it is
+  rendered as a plain heading without an anchor link.
 </p>
 <h2 id="more">More<a href="#more"></a></h2>
 <p>
