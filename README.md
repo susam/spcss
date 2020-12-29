@@ -107,9 +107,9 @@ Why SPCSS?
 I often develop primarily text-based websites and webpages. The default
 style chosen by the web browsers while decent leaves a bit to be
 desired, so I often add a minimal stylesheet to improve the apperance of
-the document, hyperlinks, code blocks, blockquotes, etc. This project
-shares the minimal stylesheet that I often rely on for styling simple
-websites and webpages.
+the document, hyperlinks, code blocks, blockquotes, tables, etc. This
+project shares the minimal stylesheet that I often rely on for styling
+simple websites and webpages.
 
 You are welcome to [fork this repository][fork] and customize it to
 maintain your own copy of [sp.css](sp.css) with styles that you
@@ -144,6 +144,7 @@ Here is a summary of the style changes provided by SPCSS:
 - Prevent very long lines of code from overflowing outside the gray box
   for code blocks. Instead, make the code block scrollable when the code
   overflows the gray box.
+- Light borders for table cells.
 
 See [this example page][Demo URL] for a quick demonstration of some of
 these features.

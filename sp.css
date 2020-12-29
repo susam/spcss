@@ -64,6 +64,14 @@ blockquote :first-child {
 blockquote :last-child {
   margin-bottom: 0;
 }
+table {
+  border-collapse: collapse;
+}
+th, td {
+  border: thin solid #999;
+  padding: 0.3em 0.4em;
+  text-align: left;
+}
 @media (prefers-color-scheme: dark) {
   body {
     color: #bbb;
@@ -86,5 +94,8 @@ blockquote :last-child {
   }
   blockquote {
     border-color: #444;
+  }
+  th, td {
+    border-color: #666;
   }
 }
