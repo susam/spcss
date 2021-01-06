@@ -1,3 +1,24 @@
+0.6.0 (2021-01-06)
+------------------
+
+### Added
+
+- Anchor links for headings.
+- Light borders for table cells.
+
+
+### Changed
+
+- Code font size is no longer set to 0.9em, so the browser default for
+  code font size is used now.
+
+
+### Fixed
+
+- Excessive heading height when heading anchor link's font size is
+  reduced with a custom CSS.
+
+
 0.5.0 (2020-12-07)
 ------------------
 
