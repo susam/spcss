@@ -51,10 +51,10 @@ If you are unable to change your desktop or browser theme right now,
 here are some screenshots to see what the output looks like with both
 themes:
 
-<a href="https://i.imgur.com/vbi8kuS.png"><img alt="Demo of SPCSS light theme"
-    src="https://i.imgur.com/vbi8kuS.png" width="48%"></a>
-<a href="https://i.imgur.com/WfYNChj.png"><img alt="Demo of SPCSS light theme"
-    src="https://i.imgur.com/WfYNChj.png" width="48%"></a>
+<a href="https://i.imgur.com/9E5TiOq.png"><img alt="Demo of SPCSS light theme"
+    src="https://i.imgur.com/9E5TiOq.png" width="48%"></a>
+<a href="https://i.imgur.com/m6Hoo40.png"><img alt="Demo of SPCSS light theme"
+    src="https://i.imgur.com/m6Hoo40.png" width="48%"></a>
 
 
 Use SPCSS
