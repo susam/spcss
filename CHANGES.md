@@ -3,7 +3,7 @@
 
 ### Added
 
-- Add hyperlink decoration when it receives focus.
+- Hyperlink decoration when it receives focus.
 
 
 0.4.0 (2020-12-06)
@@ -11,7 +11,7 @@
 
 ### Added
 
-- Add support for dark color theme.
+- Dark color theme.
 
 
 0.3.0 (2020-11-30)
