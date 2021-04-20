@@ -6,6 +6,7 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 [![View Demo][Demo SVG]][Demo URL]
 [![View CSS][CSS SVG]][CSS URL]
 [![NPM Version][Version SVG]][NPM URL]
+[![JSDelivr Hits][JSDelivr SVG]][JSDelivr URL]
 [![MIT License][License SVG]][L]
 [![Twitter][Twitter SVG]][Twitter URL]
 
@@ -17,6 +18,9 @@ SPCSS is a simple and plain stylesheet for simple text-based websites.
 
 [Version SVG]: https://img.shields.io/npm/v/spcss.svg
 [NPM URL]: https://www.npmjs.com/package/spcss
+
+[JSDelivr SVG]: https://data.jsdelivr.com/v1/package/npm/spcss/badge?style=rounded
+[JSDelivr URL]: https://www.jsdelivr.com/package/npm/spcss
 
 [License SVG]: https://img.shields.io/badge/license-MIT-%233ea639
 [L]: LICENSE.md
