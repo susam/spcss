@@ -1,3 +1,13 @@
+0.7.0 (UNRELEASED)
+------------------
+
+### Changed
+
+- Retain underlines for links.
+- Color visited links purple.
+- Color active links red.
+
+
 0.6.0 (2021-01-06)
 ------------------
 
