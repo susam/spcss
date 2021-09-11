@@ -78,8 +78,8 @@ th, td {
 }
 @media (prefers-color-scheme: dark) {
   body {
+    background: #111;
     color: #bbb;
-    background: #222;
   }
   a:link {
     color: #9bf;
@@ -97,13 +97,13 @@ th, td {
     color: #6cf;
   }
   pre kbd {
-    color: #9c9;
+    color: #9c6;
   }
   pre, blockquote {
-    background: #111;
+    background: #000;
   }
   blockquote {
-    border-color: #444;
+    border-color: #333;
   }
   th, td {
     border-color: #666;
