@@ -1,3 +1,12 @@
+0.8.0 (UNRELEASED)
+------------------
+
+### Changed
+
+- Increase top margin of heading elements from `1em` to `1.25em` to
+  create more separation from the preceding content.
+
+
 0.7.0 (2021-04-20)
 ------------------
 
