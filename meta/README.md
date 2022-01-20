@@ -14,16 +14,27 @@ Perform the following tasks for every release:
 
         npm run min
 
-  - Commit changes.
+  - Stage changes.
 
         git status
         git add -p
 
+  - Commit changes for new version.
+
+        VERSION=<VERSION>
+        git commit -em "Set version to $VERSION"
+        git push
+
+  - Update README.md with new screenshots.
+
+  - Commit README.md
+
+        VERSION=<VERSION>
+        git commit -em "Add screenshots for version $VERSION"
+
   - Tag the release.
 
         VERSION=<VERSION>
-
-        git commit -em "Set version to $VERSION"
         git tag $VERSION -m "SPCSS $VERSION"
         git push origin master $VERSION
 
